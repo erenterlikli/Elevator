@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\Asansör\Asansör\bin\Debug\Asansör.exe.config
+C:\Users\Eren\source\repos\Asansör\Asansör\bin\Debug\Asansör.exe
+C:\Users\Eren\source\repos\Asansör\Asansör\bin\Debug\Asansör.pdb
+C:\Users\Eren\source\repos\Asansör\Asansör\obj\Debug\Asansör.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Asansör\Asansör\obj\Debug\Asansör.Form1.resources
+C:\Users\Eren\source\repos\Asansör\Asansör\obj\Debug\Asansör.Properties.Resources.resources
+C:\Users\Eren\source\repos\Asansör\Asansör\obj\Debug\Asansör.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Asansör\Asansör\obj\Debug\Asansör.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Asansör\Asansör\obj\Debug\Asansör.exe
+C:\Users\Eren\source\repos\Asansör\Asansör\obj\Debug\Asansör.pdb
